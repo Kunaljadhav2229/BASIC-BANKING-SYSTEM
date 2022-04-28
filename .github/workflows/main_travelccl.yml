@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'travelccl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E20E0FE592CA4066BF35A54E2991DB59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EA36E98B4B346AF8BBCECFDB9DF4BE7 }}
           package: .
